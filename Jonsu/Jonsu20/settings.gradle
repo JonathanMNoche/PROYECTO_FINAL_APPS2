@@ -1,0 +1,2 @@
+rootProject.name='Jonsu2.0'
+include ':app'

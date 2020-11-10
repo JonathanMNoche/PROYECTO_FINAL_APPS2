@@ -1,0 +1,225 @@
+{
+  "project_info": {
+    "project_number": "1042551685646",
+    "firebase_url": "https://jonsu-b9deb.firebaseio.com",
+    "project_id": "jonsu-b9deb",
+    "storage_bucket": "jonsu-b9deb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1042551685646:android:1ff8b2050bc960222d725f",
+        "android_client_info": {
+          "package_name": "com.example.jonsu"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1042551685646-g964d85gva8uf5blodlft2uvm9varkig.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.jonsu",
+            "certificate_hash": "c432ec40b9b3d1bcccaaacf9bd2ccd4b636ce602"
+          }
+        },
+        {
+          "client_id": "1042551685646-idvovelcriputt12806aom7h271o4spa.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC9Gw9MKuRRHN3ZoOusknhAgtz85iV0240"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1042551685646-idvovelcriputt12806aom7h271o4spa.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1042551685646:android:33738eb1e1a02e622d725f",
+        "android_client_info": {
+          "package_name": "com.example.jonsu20"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1042551685646-3u7ar7qdki3lrndsn0buu5dl7tv5qbig.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.jonsu20",
+            "certificate_hash": "c432ec40b9b3d1bcccaaacf9bd2ccd4b636ce602"
+          }
+        },
+        {
+          "client_id": "1042551685646-idvovelcriputt12806aom7h271o4spa.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC9Gw9MKuRRHN3ZoOusknhAgtz85iV0240"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1042551685646-idvovelcriputt12806aom7h271o4spa.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1042551685646:android:8684b5965f60db362d725f",
+        "android_client_info": {
+          "package_name": "com.example.juansu"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1042551685646-7oe8ekjiiu2s2dfqf6gio4pq9f5g1j5n.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.juansu",
+            "certificate_hash": "c432ec40b9b3d1bcccaaacf9bd2ccd4b636ce602"
+          }
+        },
+        {
+          "client_id": "1042551685646-idvovelcriputt12806aom7h271o4spa.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC9Gw9MKuRRHN3ZoOusknhAgtz85iV0240"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1042551685646-idvovelcriputt12806aom7h271o4spa.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1042551685646:android:9858cc3f2da5a4452d725f",
+        "android_client_info": {
+          "package_name": "com.example.juansu20"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1042551685646-sdd2agjsk6t4ssioc579ivjg2cj8m91n.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.juansu20",
+            "certificate_hash": "c432ec40b9b3d1bcccaaacf9bd2ccd4b636ce602"
+          }
+        },
+        {
+          "client_id": "1042551685646-idvovelcriputt12806aom7h271o4spa.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC9Gw9MKuRRHN3ZoOusknhAgtz85iV0240"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1042551685646-idvovelcriputt12806aom7h271o4spa.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1042551685646:android:fa5bbb5a8053c8782d725f",
+        "android_client_info": {
+          "package_name": "com.example.juansu_v2"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1042551685646-gpvfl5h6k36ct5mnprqag8ecaigl5ap9.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.juansu_v2",
+            "certificate_hash": "c432ec40b9b3d1bcccaaacf9bd2ccd4b636ce602"
+          }
+        },
+        {
+          "client_id": "1042551685646-idvovelcriputt12806aom7h271o4spa.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC9Gw9MKuRRHN3ZoOusknhAgtz85iV0240"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1042551685646-idvovelcriputt12806aom7h271o4spa.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1042551685646:android:984546bc02ad4a322d725f",
+        "android_client_info": {
+          "package_name": "com.example.junson"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1042551685646-idvovelcriputt12806aom7h271o4spa.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC9Gw9MKuRRHN3ZoOusknhAgtz85iV0240"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1042551685646-idvovelcriputt12806aom7h271o4spa.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
